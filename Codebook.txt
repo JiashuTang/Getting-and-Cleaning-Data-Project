@@ -1,0 +1,3 @@
+subject int  --Subject number
+activity varchar --activity description
+column 3-81 float --value
